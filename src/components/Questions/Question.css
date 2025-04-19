@@ -1,0 +1,39 @@
+.question {
+    text-align: center;
+    padding: 0 20%;
+    margin-top: 10%;
+}
+
+
+.question-section {
+    border: 1px solid rgb(119, 119, 119);
+    border-radius: 10px;
+}
+
+.options {
+    margin: 3% 0;
+}
+
+
+.quiz-option {
+    background-color: #dfdfdf;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    border: 1px solid rgb(119, 119, 119);
+    cursor: pointer;
+}
+
+.quiz-option:hover {
+    background-color: #b4b4b4;
+}
+
+button {
+    padding: 10px;
+    margin: 15px 20px;
+    width: 23%;
+}
+
+.score-board {
+    text-align: center;
+}
